@@ -26,7 +26,7 @@ import {
   tailwind,
   tesla,
   tripguide,
-  typescript,
+  // typescript,
   web
 } from "../assets";
   
@@ -67,10 +67,10 @@ import {
       name: "JavaScript",
       icon: javascript,
     },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
+    // {
+    //   name: "TypeScript",
+    //   icon: typescript,
+    // },
     {
       name: "Next JS",
       icon: next,
