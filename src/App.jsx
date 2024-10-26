@@ -1,8 +1,8 @@
 import { BrowserRouter } from "react-router-dom";
 
-import { About, Contact, Hero, Navbar, StarsCanvas, Tech } from "./components";
-import Experience from "./components/Experience";
-import EmbeddedApp from "./components/Diary";
+import { About, Contact, Hero, Navbar, StarsCanvas, Tech, EmbeddedApp, Experience } from "./components";
+
+
 
 
 

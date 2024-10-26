@@ -1,11 +1,11 @@
 import {
   backend,
-  c,
+  // c,
   carrent,
   creator,
-  css,
-  figma,
-  html,
+  // css,
+  // figma,
+  // html,
   docker,
   git,
   github,
@@ -16,12 +16,12 @@ import {
   mongodb,
   nodejs,
   express,
-  python,
+  // python,
   reactjs,
   redux,
   next,
   shopify,
-  sql,
+  // sql,
   starbucks,
   tailwind,
   tesla,
@@ -62,14 +62,7 @@ import {
   ];
   
   const technologies = [
-    {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
+   
     {
       name: "JavaScript",
       icon: javascript,
@@ -110,19 +103,13 @@ import {
       name: "PostgresSQL",
       icon: pSQL,
     },
-    {
-      name: "MY SQL",
-      icon: sql,
-    },
+ 
     {
       name: "Prisma",
       icon: prisma,
     },
     
-    {
-      name: "figma",
-      icon: figma,
-    },
+   
     {
       name: "Docker",
       icon: docker,
@@ -135,14 +122,7 @@ import {
       name: "Github",
       icon: github,
     },
-    {
-      name: "C",
-      icon: c,
-    },
-    {
-      name: "PYTHON",
-      icon: python,
-    },
+   
     
   ];
   
