@@ -38,6 +38,17 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Skate from "./Skate.png";
+import Qorvia from "./Qorvia.png";
+import Celestial from "./celestial.png";
+import Designer from "./Designer.png";
+import Fit from "./Fit.png";
+import logo1 from "./logo1.png";
+import logo2 from "./logo2.png";
+import logo3 from "./logo3.png";
+import logo4 from "./logo4.png";
+import logo5 from "./logo5.png";
+import logo6 from "./logo6.png";
 
 export {
   backend, c, carrent, close, creator, css,
@@ -46,6 +57,6 @@ export {
 
   git, github, html, java, javascript, jobit, logo, menu, meta, mobile, mongodb,
   nodejs, python, reactjs,next,express,pSQL,prisma,
-  redux, shopify, sql, starbucks, tailwind, tesla, tripguide, typescript, web
+  redux, shopify, sql, starbucks, tailwind, tesla, tripguide, typescript, web,Skate, Celestial, Designer,Qorvia, Fit, logo1, logo2, logo3, logo4, logo5, logo6
 };
 
